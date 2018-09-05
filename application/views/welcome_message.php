@@ -50,7 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div>
 	</div>
 	<div class="row">
-                <p><i>  You either die a hero or you live long enough to see yourself become the villain. -The Dark Knight</p>
+                <h5><i>  You either die a hero or you live long enough to see yourself become the villain. -The Dark Knight</h5>
 	</i></div>
         <div class="row">
 
