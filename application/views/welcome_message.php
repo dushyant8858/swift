@@ -44,18 +44,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	  	<input type="text" id="datepicker" name="departure">
 	  </div>
 	  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
 	</div>
 	</div>
 	</div>
 	</div>
 	<div class="row">
                 <p>You either die a hero or you live long enough to see yourself become the villain. -The Dark Knight</p>
-
+	</div>
+        <div class="row">
 
 </form>
 	</div>
 </div>
 
 </body>
-</html>You either die a hero or you live long enough to see yourself become the villain. -The Dark Knight
+</html>   You either die a hero or you live long enough to see yourself become the villain.
+          -The Dark Knight
 
