@@ -48,7 +48,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	  <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 	</div>
+	</div>
+	</div>
+	</div>
+	<div class="row">
+                <h5><i>...     You either die a hero or you live long enough to see yourself become the villain. -The Dark Knight</h5>
+	</i></div>
+        <div class="row">
+
+</form>
+	</div>
 </div>
 
 </body>
 </html>
+
